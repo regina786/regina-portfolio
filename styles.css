@@ -1,0 +1,12 @@
+*{
+    font-family:'poppins',sans-serif;
+}
+.banner{
+    background-image: url(https://st4.depositphotos.com/7595566/26570/i/450/depositphotos_265709776-stock-photo-minimalist-home-office-desk-workspace.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 0;
+}
+.skills-padding{
+    padding: 70px 0;
+}
