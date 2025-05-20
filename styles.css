@@ -2,10 +2,10 @@
     font-family:'poppins',sans-serif;
 }
 .banner{
-    background-image: url(../bootstrap/port img/depositphotos_265709776-stock-photo-minimalist-home-office-desk-workspace.webp);
+    background-image: url('/bootstrap/port img/depositphotos_265709776-stock-photo-minimalist-home-office-desk-workspace.webp');
     background-size: cover;
     background-repeat: no-repeat;
-    padding: 200px 0;
+    padding:200px 0px;
 }
 .skills-padding{
     padding: 70px 0;
